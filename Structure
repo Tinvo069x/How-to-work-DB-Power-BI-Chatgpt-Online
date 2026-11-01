@@ -1,0 +1,14 @@
+Purchasing_Dashboard/
+│
+├── Purchasing_Dashboard.pbip
+│
+├── Purchasing_Dashboard.Report/
+│   ├── definition.pbir
+│   └── definition/
+│       └── pages/
+│
+└── Purchasing_Dashboard.SemanticModel/
+    ├── definition.pbism
+    └── definition/
+        ├── model.tmdl
+        └── tables/
